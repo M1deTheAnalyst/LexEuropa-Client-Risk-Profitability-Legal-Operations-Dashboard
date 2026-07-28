@@ -330,7 +330,7 @@ lexeuropa-dashboard/
 
 1. **Clone or download the repository**
    ```bash
-   git clone 
+   git clone https://github.com/M1deTheAnalyst/LexEuropa-Client-Risk-Profitability-Legal-Operations-Dashboard.git
    ```
 
 2. **Open the dashboard**
